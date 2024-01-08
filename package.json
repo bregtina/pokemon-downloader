@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "name": "fetch-pokemon-project",
+  "version": "1.0.0",
+  "main": "./main.js",
+  "devDependencies": {},
+  "author": "Bregina Pool",
+  "license": "ISC",
+  "description": "download pokemon images and statistics"
+}
